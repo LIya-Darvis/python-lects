@@ -12,6 +12,8 @@
 
 [Лекция 6](https://docs.google.com/presentation/d/1nUbeKZGjaLyLKHYRTXyTYzMHD6n4XAIy5iiSADbydsY/edit?usp=drivesdk)
 
+[Лекция 7](https://docs.google.com/presentation/d/1OpXl_05U7bGlLXP4moZq4_zMJVuIo3CuB5TUKCMZrsc/edit?usp=sharing)
+
 
 
 Задания с лекций
@@ -46,3 +48,8 @@ __ 6 лекция
 2. Refactored Greeting
 3. Finish Guess the Guess
 4. Santa'sNaughty List
+
+__ 7 лекция
+1. Bank Account
+2. Object Oriented Piracy
+3. Getters and Setters
