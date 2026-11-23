@@ -50,6 +50,6 @@ __ 6 лекция
 4. Santa'sNaughty List
 
 __ 7 лекция
-1. Bank Account
-2. Object Oriented Piracy
+1. Classy Extensions
+2. Color Ghost
 3. Getters and Setters
