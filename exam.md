@@ -63,9 +63,13 @@
 Файловая структура
 
 exam_project/
+
 ├── main.py
+
 ├── data.json
+
 ├── result.json
+
 └── README.md
 
 
