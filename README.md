@@ -52,4 +52,4 @@ __ 6 лекция
 __ 7 лекция
 1. Classy Extensions
 2. Color Ghost
-3. Getters and Setters
+3. Basic subclasses - Adam and Eve
