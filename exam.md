@@ -69,6 +69,8 @@ exam_project/
 └── README.md
 
 
+Распределение баллов
 
+https://docs.google.com/spreadsheets/d/1B3aE2Io7G2Re-sNGokhP4EgoQ6cpWZkJC37GUFGPJ1g/edit?usp=drivesdk
 
 
